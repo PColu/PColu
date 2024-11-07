@@ -2,9 +2,8 @@
 - 👀 I’m interested in data, analytics, AI
 - 🌱 I’m currently learning SQL, BigQuery
 - 💞️ I’m looking to collaborate on SQL and analytics projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me pablo.coluccio@gmail.com
+  
 
 <!---
 PColu/PColu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
